@@ -5,7 +5,7 @@ This project analyzes Amazon sales data using MySQL and Power BI
 to extract business insights like revenue, order trends, and
 customer behavior.
 
-## Tools & Technologies
+## Tools Used:
 - MySQL
 - Power BI
 - CSV Dataset
@@ -58,6 +58,7 @@ Amazon-Sales-Data-Analysis/
 - Writing business-focused queries
 - KPI creation
 - Interactive dashboard design
+
 
 
 
