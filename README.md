@@ -22,6 +22,9 @@ customer behavior.
 
 ## Dashboards
 ### 1. Sales Overview Dashboard
+
+![Sales Overview Dashboard](sales_overview.png)
+
 - Revenue KPIs
 - Category-wise Sales
 - Monthly Trends
@@ -58,6 +61,7 @@ Amazon-Sales-Data-Analysis/
 - Writing business-focused queries
 - KPI creation
 - Interactive dashboard design
+
 
 
 
