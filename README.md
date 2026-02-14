@@ -30,6 +30,9 @@ customer behavior.
 - Monthly Trends
 
 ### 2. Order Insights Dashboard
+
+![Order Insights Dashboard](order_insights_dashboard.png)
+
 - Order Status
 - Payment Methods
 - Customer Location
@@ -61,6 +64,7 @@ Amazon-Sales-Data-Analysis/
 - Writing business-focused queries
 - KPI creation
 - Interactive dashboard design
+
 
 
 
